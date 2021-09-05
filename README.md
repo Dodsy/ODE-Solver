@@ -5,9 +5,9 @@ Solves an ODE with boundary values using a Bezier cure.
 
 This was my submission for end year project in AM3611 at the University of Western Ontario. Topics were chosen by students based on interest, with aid being given by the professor where necessary when picking a topic. 
 
-I originally heard about Bézier curves while taking this course, and looking for a end year project idea. I wanted to explore them a bit more, but was unsure how.
+I originally heard about Bézier curves while taking this course, and was looking for a end year project idea. I wanted to explore them a bit more, but was unsure how.
 
-Later, I learned about the collocation method, I wondered if a Bézier curve could be used as the basis function in the collocation method (Bézier curves are also called Bernstein polynomials), so I tried it! The margin of error is LARGE. Well, small in some contexts, but large in this one.
+Later, I learned about the collocation method in my numerical analysis course, I had an instant light bulb and wondered if a Bézier curve could be used as the basis function in the collocation method (Bézier curves are also called Bernstein polynomials), so I tried it! The margin of error is LARGE. Well, small in some contexts, but large in this one.
 
 I still think this is my most original work yet.
 
