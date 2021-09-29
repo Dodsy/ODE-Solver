@@ -7,9 +7,7 @@ This was my submission for end year project in AM3611 at the University of Weste
 
 I originally heard about Bézier curves while taking this course, and was looking for a end year project idea. I wanted to explore them a bit more, but was unsure how.
 
-Later, I learned about the collocation method in my numerical analysis course, I had an instant light bulb and wondered if a Bézier curve could be used as the basis function in the collocation method (Bézier curves are also called Bernstein polynomials), so I tried it! The margin of error is LARGE. Well, small in some contexts, but large in this one.
-
-I still think this is my most original work yet.
+Later, I learned about the collocation method in my numerical analysis course, I had an instant light bulb and wondered if a Bézier curve could be used as the basis function in the collocation method (Bézier curves are also called Bernstein polynomials), so I tried it! The margin of error is LARGE. Well, small in some contexts, but large in this one
 
 ## What does it do?
 
